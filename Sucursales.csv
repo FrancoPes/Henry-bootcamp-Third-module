@@ -1,0 +1,32 @@
+﻿ID;Sucursal;Direccion;Localidad;Provincia;Latitud;Longitud
+1;Cabildo;Av. Cabildo 1342;Ciudad de Buenos Aires;Ciudad de Buenos Aires;-345678060.00;-584495720.00
+2;Palermo 1;Guatemala 5701;CABA;CABA;-345790350.00;-584335660.00
+3;Palermo 2;Gral. Lucio Norberto Mansilla 2668;CABA;C deBuenos Aires;-345959660.00;-584051500.00
+4;Corrientes;Av. Corrientes 2352;Ciudad de Buenos Aires;Bs As;-346046850.00;-583987640.00
+5;Almagro;Venezuela 3650;Capital;Bs.As. ;-346173080.00;-584161790.00
+6;Caballito;Av. Rivadavia 4708;Capital Federal;Ciudad de Buenos Aires;-346163030.00;-584318490.00
+7;Flores;Av. Rivadavia 5746;CapFed;Buenos Aires;-346228680.00;-584464490.00
+8;Alberdi;Av. Juan Bautista Alberdi 1634;Cap. Fed.;Buenos Aires;-346273060.00;-584514980.00
+9;Deposito;Pedernera 530;Cap.   Federal;Buenos Aires;-346351340.00;-584615130.00
+10;Velez;Av. Juan Bautista Justo 7738;Cdad de Buenos Aires;Ciudad de Buenos Aires;-346312570.00;-584980630.00
+11;Vicente Lopez;Av. Maipú 829;Vicente López;Buenos Aires;-345301030.00;-584800660.00
+12;San Isidro;Av. Sta Fe 2552;Martínez;B. Aires;-344944020.00;-584979510.00
+13;Caseros;Justo José de Urquiza 4770;Caseros;B.Aires;-346059480.00;-585633190.00
+14;Moron;Salta 250;Moron;Buenos Aires;-346458960.00;-586211490.00
+15;Castelar;Sta Rosa 1845;Castelar;Provincia de Buenos Aires;-346393040.00;-586556710.00
+16;San Justo;Av. Dr. Ignacio Arieta 3451;San Justo;Buenos Aires;-346813890.00;-585569190.00
+17;Lanus;Pres. Tte. Gral. Juan Domingo Perón 3270;Lanus;Prov de Bs As.;-346698050.00;-584113120.00
+18;Avellaneda;Av. Bartolomé Mitre 612;Avellaneda;Buenos Aires;-346610600.00;-583665150.00
+19;Quilmes;Peatonal Rivadavia 185;Quilmes;Pcia Bs AS;-347222530.00;-582575760.00
+20;La Plata;Calle 48 974;La Plata;Pcia Bs AS;-349207770.00;-579588890.00
+21;MDQ1;San Martín 2544;Mar del Plata;Buenos Aires;-379996910.00;-575463900.00
+22;MDQ2;Belgrano 2847;Mar del Plata;Buenos Aires;-379997630.00;-575505770.00
+23;Rosario1;Av. Pellegrini 1138;Rosario;Santa Fe;-329570300.00;-606413540.00
+24;Rosario2;Rueda 6349;Rosario;Santa Fe;-329627480.00;-607076290.00
+25;Córdoba Centro;Av Colón 251;Córdoba;Córdoba;-314127470.00;-641864580.00
+26;Córdoba Quiroz;Av Duarte Quirós 2910;Coroba;Córdoba;-314075380.00;-642217380.00
+27;Cerro de las Rosas;Av. Rafael Núñez 4764;Cordoba;Cordoba;-313612540.00;-642378170.00
+28;Tucumán;Av. Sarmiento 525;San Miguel de Tucumán;Tucumán;-268180450.00;-652040710.00
+29;Mendoza1;Gutiérrez 349;Mendoza;Mendoza;-328875310.00;-688433080.00
+30;Mendoza2;Av. Colón 255;Mendoza;Mendoza;-328942920.00;-688438020.00
+31;Bariloche;Mitre 252;San Carlos de Bariloche;Río Negro;-411338280.00;-713063650.00
